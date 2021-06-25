@@ -1,0 +1,13 @@
+{
+  "duration": "2",
+  "price": "240",
+  "bookingStartDate": "new Date()",
+  "bookingEndDate": "new Date()",
+  "firstName": "Livren",
+  "lastName": "Sandi",
+  "emailAddress": "angga@buildwithangga.com",
+  "phoneNumber": "081923012380",
+  "accountHolder": "Livren Sandi",
+  "bankFrom": "BCA",
+  "proofPayment": "FileData()"
+}
